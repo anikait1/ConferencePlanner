@@ -36,7 +36,7 @@ namespace BackEnd
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BackEnd", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Conference Planner API", Version = "v1" });
             });
         }
 
