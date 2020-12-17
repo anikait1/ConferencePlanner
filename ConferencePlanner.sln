@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "BackEnd\BackEnd.csproj", "{41FAAA5D-8593-4C09-B406-8D9F68BD5E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{324894D4-C106-4D6E-8DE7-5EF0BA479FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{324894D4-C106-4D6E-8DE7-5EF0BA479FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{63E4A78E-3FFD-4870-B90F-56C7AF842876}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{63E4A78E-3FFD-4870-B90F-56C7AF842876}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
